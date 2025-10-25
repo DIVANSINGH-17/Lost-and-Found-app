@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "888803721481",
+    "project_id": "lofoapp-e7c26",
+    "storage_bucket": "lofoapp-e7c26.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888803721481:android:80e3ba5c68d20adbf5d3d8",
+        "android_client_info": {
+          "package_name": "com.shruti.lofo",
+          "certificate_hash": ["c4195524d7b50c631e0dde115d1a10414686be2a"]
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZl8TwpRhdCi3ZLfHMSpDeSFVAfK_QWTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
